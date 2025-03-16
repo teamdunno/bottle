@@ -1,0 +1,11 @@
+{
+    "nick": "go_test_bot",
+    "server": "irc.libera.chat:6667",
+    "prefix": "!",
+    "channels": [
+        "#dunno"
+    ],
+    "mods": [
+        "teesh3rt"
+    ]
+}
